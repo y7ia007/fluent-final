@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Readex+Pro:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --inter-p3-semi-bold: Inter;
+  --font-roboto: Roboto;
+  --font-readex-pro: "Readex Pro";
+  --font-plus-jakarta-sans: "Plus Jakarta Sans";
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --inter-h3-semi-bold-size: 14px;
+  --font-size-base: 16px;
+  --inter-p2-medium-size: 12px;
+  --inter-p3-semi-bold-size: 10px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --primary: #3460fb;
+  --dewan-opacity-blue-10: rgba(52, 96, 251, 0.1);
+  --white: #fff;
+  --color-black: #000;
+  --gray-gray-600: #6b7280;
+  --primary-opacity-10: #e1e7ff;
+  --color-lavender-100: #d4e3ff;
+  --black: #111928;
+  --gray-gray-background: #f8f9fa;
+  --stroke: #f1f3f5;
+  --color-darkgray: #9ca5b4;
+  --secondary-background: #f3f8ff;
+  --color-mediumaquamarine: #afeec6;
+  --dewan-light-grey-stroke: #d4d9e3;
+  --red: #f3451e;
+  --green: #25d366;
+  --orange: #fca222;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-3xs: 10px;
+  --gap-2xs: 11px;
+  --gap-11xs: 2px;
+  --gap-8xs: 5px;
+  --gap-7xs: 6px;
+  --gap-xs: 12px;
+  --gap-9xs: 4px;
+  --gap-base: 16px;
+  --gap-xl: 20px;
+
+  /* Paddings */
+  --padding-7xs: 6px;
+  --padding-6xl: 25px;
+  --padding-xl: 20px;
+  --padding-5xs: 8px;
+  --padding-11xs: 2px;
+  --padding-8xs: 5px;
+  --padding-3xl: 22px;
+  --padding-3xs: 10px;
+  --padding-base: 16px;
+  --padding-xs: 12px;
+  --padding-4xs: 9px;
+  --padding-9xs: 4px;
+  --padding-mini: 15px;
+  --padding-166xl: 185px;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+  --br-31xl: 50px;
+  --br-36xl: 55px;
+  --br-11xs: 2px;
+  --br-7xs: 6px;
+  --br-8xs: 5px;
+  --br-13xl: 32px;
+  --br-base: 16px;
+}
