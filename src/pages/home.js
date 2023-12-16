@@ -19,7 +19,7 @@ const Home = () => {
               <img className="light-icon" alt="" src="/History 4.png" />
             </div>
             <div className="badge">
-              <div className="div3">18</div>
+              <div className="div3">155</div>
             </div>
           </div>
           <div className="link1">
@@ -27,7 +27,7 @@ const Home = () => {
               <img className="light-icon" alt="" src="/ticket.png" />
             </div>
             <div className="badge1">
-              <div className="div3">12</div>
+              <div className="div3">90</div>
             </div>
           </div>
           <div className="link5">
